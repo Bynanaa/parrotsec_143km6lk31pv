@@ -12,6 +12,11 @@ Here's some most common use cases:
 wget https://gitlab.com/parrotsec/project/documentation/-/raw/dev/docs/tools/wget.md
 ```
 
+https://asciinema.org/a/6SdlNcYVG80s1iu7uQMHNdRJY
+<script src="https://asciinema.org/a/6SdlNcYVG80s1iu7uQMHNdRJY.js" id="asciicast-6SdlNcYVG80s1iu7uQMHNdRJY" async="true"></script>
+<script src="https://asciinema.org/a/6SdlNcYVG80s1iu7uQMHNdRJY.js" id="asciicast-6SdlNcYVG80s1iu7uQMHNdRJY" async="true">{newline}</script>
+
+
 Launching this command will download directly the file inside the folder where the command has been launched. This is the basic command.
 
 ![1](images/wget2/wget1.gif)
