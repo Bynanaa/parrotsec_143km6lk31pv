@@ -14,6 +14,8 @@ wget https://gitlab.com/parrotsec/project/documentation/-/raw/dev/docs/tools/wge
 
 Launching this command will download directly the file inside the folder where the command has been launched. This is the basic command.
 
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+
 ![1](images/wget2/wget1.gif)
 
 * Background download `wget -b`
